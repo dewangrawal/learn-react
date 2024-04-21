@@ -20,7 +20,7 @@ ReactElement(Object) => HTML(Browser Understands)
 
 const parent = React.createElement('div', { id: 'parent' }, [
   React.createElement('div', { id: 'child' }, [
-    React.createElement('h1', {}, 'This is Namaste React 🚀'),
+    React.createElement('h1', {}, 'This is  React 🚀'),
     React.createElement('h2', {}, "I'm h2 Tag"),
   ]),
   React.createElement('div', { id: 'child2' }, [
